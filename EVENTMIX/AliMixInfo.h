@@ -8,6 +8,9 @@
 //          Martin Vala (martin.vala@cern.ch)
 //
 
+will not work
+
+
 #ifndef ALIMIXINFO_H
 #define ALIMIXINFO_H
 
